@@ -1,0 +1,8 @@
+# Versions read from the Raspberry Pi 4 used in this project
+# OS: Debian GNU/Linux 13 (trixie), Python 3.13.5, pigpiod 79
+opencv-contrib-python==4.10.*
+numpy==2.2.4
+Flask==3.1.1
+pyserial==3.5
+pigpio==1.78
+picamera2==0.3.38
